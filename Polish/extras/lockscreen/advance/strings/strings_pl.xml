@@ -1,0 +1,5 @@
+<resources>
+    <string name="date_format">d MMMM, yyyy</string>
+    <string name="emergency_call">Alarmowe</string>
+    <string name="unknown_number">Nieznany numer</string>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_timeout_entries">
+        <item>15 sek.</item>
+        <item>30 sek.</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>Nie usypiaj</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Czerwony</item>
+        <item>Zielony</item>
+	</string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Pytaj</item>
+        <item>Nie zezwalaj</item>
+        <item>Pozwól</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Pierwsze 4 cyfry</item>
+        <item>Ostatnie 4 cyfry</item>
+        <item>Nie wyświetlaj</item>
+    </string-array>
+   	<string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Tylko raz</item>
+        <item>Zawsze</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (autom.)</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automatyczne łączenie</item>
+        <item>Ręczne łączenie</item>
+        <item>Zawsze pytaj</item>
+    </string-array>
+    <string-array name="wifi_ap_channel_width">
+        <item>20 MHz</item>
+        <item>Autom. 20/40 MHz</item>
+    </string-array>
+   	<string-array name="network_use_entry">
+        <item>Tylko w domu</item>
+        <item>Dom + Roaming</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Użyj czasu z sieci</item>
+        <item>Użyj czasu z GPS</item>
+        <item>Wył</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries">
+        <item>Automatycznie</item>
+        <item>720P</item>
+        <item>480P</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Pełny ekran</item>
+        <item>Dopasowanie</item>
+        <item>Oryginalny rozmiar</item>
+    </string-array>
+    <string-array name="hdmi_deep_color_entries">
+        <item>8 bit</item>
+        <item>Automatycznie</item>
+        <item>10 bit</item>
+        <item>12 bit</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(niewybrane)</item>
+        <item>Slot 1 karty SIM</item>
+        <item>Slot 2 karty SIM</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Automatycznie</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Zawsze</item>
+        <item>Wyłącz po nieaktywności 5 minut</item>
+        <item>Wyłącz po nieaktywności 10 minut</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Przycisk Push</item>
+        <item>Kod PIN</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 użytkownik</item>
+        <item>2 użytkowników</item>
+        <item>3 użytkowników</item>
+        <item>4 użytkowników</item>
+        <item>5 użytkowników</item>
+        <item>6 użytkowników</item>
+        <item>7 użytkowników</item>
+        <item>8 użytkowników</item>
+    </string-array>
+  </resources>

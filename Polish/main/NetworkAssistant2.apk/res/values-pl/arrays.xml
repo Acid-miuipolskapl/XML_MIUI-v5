@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Wczoraj "</item>
+        <item>"Dzisiaj "</item>
+        <item>"W tym miesiącu "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Wczoraj: "</item>
+        <item>"Dzisiaj: "</item>
+        <item>"Ten miesiąc: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dane 2G/3G wczoraj</item>
+        <item>Dane 2G/3G dzisiaj</item>
+        <item>Dane 2G/3G w tym miesiącu</item>
+        <item>Dane Wi-Fi wczoraj</item>
+        <item>Dane Wi-Fi dzisiaj</item>
+        <item>Dane Wi-Fi w tym miesiącu</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Dane 2G/3G wczoraj</item>
+        <item>Dane 2G/3G dzisiaj</item>
+        <item>Dane 2G/3G w tym miesiącu</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Dane 2G/3G "</item>
+        <item>"Dane Wi-Fi "</item>
+        <item>"Oszczędności transferu "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Użycie 2G/3G "</item>
+        <item>"Użycie Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Użyciu danych 2G/3G</item>
+        <item>Użyciu danych Wi-Fi</item>
+        <item>Użyciu danych razem</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Uzyskaj szablon wiadomości automatycznie</item>
+        <item>Ustaw ręcznie szablon wiadomości</item>
+    </string-array>
+</resources>

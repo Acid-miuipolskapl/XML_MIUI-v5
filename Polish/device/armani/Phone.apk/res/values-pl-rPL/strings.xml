@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="network_settings">" - ustawienia sieci"</string>
+    <string name="sim_manage_call_via">Połącz z</string>
+    <string name="sim_picker_settings">Ustawienia kart SIM</string>
+    <string name="sim_picker_timer_miui">(%1$ds)</string>
+    <string name="sim_slot_alert_title">Podpowiedzi</string>
+    <string name="sim_slot_alert_message_3g">Umieść kartę SIM %s do pierwszego slotu WCDMA by korzystać z prędkości sieci 3G.</string>
+    <string name="sim_slot_alert_message_disable">Karta SIM %s w pierwszym slocie WCDMA może nie działać prawidłowo.</string>
+    <string name="sim_slot_alert_shutdown">Wyłącz</string>
+    <string name="sim_slot_alert_cancel">Kontynuuj</string>
+</resources>

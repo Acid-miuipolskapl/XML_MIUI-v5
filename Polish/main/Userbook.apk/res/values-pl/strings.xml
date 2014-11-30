@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Podręcznik</string>
+  <string name="bakc_key_toast_txt">Aby wyjść naciśnij wstecz</string>
+  <string name="cta_dialog_button_text">Zgadzam się</string>
+  <string name="cta_dialog_msg">"Zgadzasz się na pobieranie treści podręcznika po Wi-Fi?
+ *Info: lub wyjdź przyciskiem wstecz"</string>
+  <string name="cta_dialog_title">Podpowiedź</string>
+  <string name="downloading_data">Pobieranie…</string>
+  <string name="downloading_error">Download error, please try again later!</string>
+  <string name="loading_userbook">Wczytywanie…</string>
+  <string name="non_wifi_not_download_data">"Can't use your data connection to download this package, Try again when you're connected to a WLAN network"</string>
+</resources>

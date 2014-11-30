@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="memory_select_list_entries">
+        <item>Nośnik USB</item>
+        <item>Karta SD</item>
+    </string-array>
+</resources>

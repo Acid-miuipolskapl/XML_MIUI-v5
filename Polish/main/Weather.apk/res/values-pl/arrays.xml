@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>SMS</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Wiatr:</item>
+        <item>UV:　</item>
+        <item>Ubrania:</item>
+        <item>Komfortowo:</item>
+        <item>Mycie auta:</item>
+        <item>Suszenie:</item>
+        <item>Ćwiczenia:</item>
+        <item>Odpoczynek:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>bezchmurnie</item>
+        <item>pochmurno</item>
+        <item>zamglenie</item>
+        <item>mglisto</item>
+        <item>deszczowo</item>
+        <item>deszczowo</item>
+        <item>deszczowo</item>
+        <item>burzowo</item>
+        <item>lekki deszcz</item>
+        <item>deszczowo</item>
+        <item>deszczowo</item>
+        <item>mżawka</item>
+        <item>deszcz ze śniegiem</item>
+        <item>śnieżnie</item>
+        <item>śnieżnie</item>
+        <item>śnieżnie</item>
+        <item>śnieżnie</item>
+        <item>śnieżnie</item>
+        <item>burzowo</item>
+        <item>burzowo</item>
+        <item>burzowo</item>
+        <item>burzowo</item>
+        <item>grad</item>
+        <item>pylisto</item>
+        <item>mgiełka</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Unavailable</item>
+        <item>Suitable</item>
+        <item>Dobrze</item>
+        <item>Unikaj jeśli to możliwe</item>
+        <item>Nie polecane</item>
+        <item>Idealnie</item>
+        <item>Moderate</item>
+        <item>Słabo</item>
+        <item>Średnio</item>
+        <item>Silnie</item>
+        <item>Bardzo silnie</item>
+        <item>Chłodno</item>
+        <item>Komfortowo</item>
+        <item>Upalnie</item>
+        <item>Gorąco</item>
+        <item>Ciepło</item>
+        <item>Chłodno</item>
+        <item>Zimno</item>
+        <item>Bardzo zimno</item>
+        <item>Mroźno</item>
+        <item>Wysoko</item>
+        <item>Średnio</item>
+        <item>Nisko</item>
+        <item>Czyste niebo</item>
+        <item>Pochmurnie</item>
+        <item>Deszcz</item>
+        <item>Sand storm</item>
+        <item>Śnieg</item>
+        <item>Dobre warunki</item>
+        <item>Dobre warunki</item>
+        <item>Pochmurnie</item>
+        <item>Less than ideal</item>
+        <item>Idealne warunki</item>
+        <item>Kiepskie warunki</item>
+        <item>Średnie warunki</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by ciepło się ubrać! "</item>
+        <item>"Pamiętaj by ciepło się ubrać! "</item>
+        <item>"Pamiętaj by ciepło się ubrać! "</item>
+        <item>"Pamiętaj by ciepło się ubrać! "</item>
+        <item>"Pamiętaj by ciepło się ubrać! "</item>
+        <item>"Uważaj na pogodę! "</item>
+        <item>"Uważaj na pogodę! "</item>
+        <item>"Uważaj na pogodę! "</item>
+        <item>"Uważaj na pogodę! "</item>
+        <item>"Uważaj! Drogi są oblodzone. "</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>"Pamiętaj by zabrać okulary przeciwsłoneczne. "</item>
+        <item>"Dziś będzie pochmurno. "</item>
+        <item>"Lepiej zostań w domu :) "</item>
+        <item>"Jedź ostrożnie "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Pogoda się pogarsza! "</item>
+        <item>"Pamiętaj o czapce i szaliku! "</item>
+        <item>"Ubierz się ciepło! "</item>
+        <item>"Pamiętaj o czapce i szaliku! "</item>
+        <item>"Pamiętaj o czapce i szaliku! "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Pogoda się pogarsza! "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Lepiej zostań w domu :) "</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>"Jest $ w @. "</item>
+        <item>"Temperatura: % stopni. "</item>
+        <item>"Pamiętaj by wziąć ze sobą parasol! "</item>
+        <item>"Nie zmoknij! :) "</item>
+        <item>"Zdejmij pranie z balkonu bo będzie padać :) "</item>
+        <item>"Lepiej unikaj jazdy samochodem. "</item>
+        <item>"Jedź ostrożnie! "</item>
+        <item>"Uważaj. Drogi i chodniki są oblodzone. "</item>
+        <item>"Uważaj na siebie. "</item>
+        <item>"Uważaj na zewnątrz. "</item>
+        <item>"Lepiej zostań w domu. "</item>
+        <item>"Weź ze sobą okulary przeciwsłoneczne. "</item>
+        <item>"Weź olejek do opalania i okulary przeciwsłoneczne. "</item>
+        <item>"Jest wietrznie. Weź ze sobą kurtkę. "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Pamiętaj by ubrać kurtkę. "</item>
+        <item>"Pamiętaj by ubrać maskę. "</item>
+        <item>"Pamiętaj by ubrać czapkę i rękawiczki. "</item>
+        <item>"Jest upalnie! "</item>
+        <item>"Pozostań w cieniu! "</item>
+        <item>"Ubierz się ciepło! "</item>
+        <item>"Temperatura może spaść… "</item>
+        <item>"Pozostań na słońcu! "</item>
+        <item>"Wear ear muffs if you have them! "</item>
+        <item>"Wyjdź na dwór i ciesz się pogodą! "</item>
+        <item>"Wyjdź na dwór i ciesz się słońcem! "</item>
+        <item>"Dobry dzień na suszenie prania! "</item>
+        <item>"Pamiętaj by wziąć kurtkę! "</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Niedostępne</item>
+        <item>6</item>
+        <item>"Pamiętaj o olejku do opalania. "</item>
+        <item>7</item>
+        <item>"Pamiętaj o olejku do opalania. "</item>
+        <item>8</item>
+        <item>"Pamiętaj o olejku do opalania. "</item>
+        <item>9</item>
+        <item>"Przed wyjściem użyj olejku do opalania! "</item>
+        <item>10</item>
+        <item>"Przed wyjściem użyj olejku do opalania! "</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>11</item>
+        <item>Lekka kurtka</item>
+        <item>12</item>
+        <item>Lekka kurtka</item>
+        <item>13</item>
+        <item>Letnie ubrania</item>
+        <item>14</item>
+        <item>Letnie ubrania</item>
+        <item>15</item>
+        <item>Letnia kurtka</item>
+        <item>16</item>
+        <item>Ubierz się ciepło!</item>
+        <item>17</item>
+        <item>Ubierz kurtkę!</item>
+        <item>18</item>
+        <item>Ubierz się ciepło!</item>
+        <item>19</item>
+        <item>Ubierz się ciepło!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>1</item>
+        <item>"To dobry dzień na poranną gimnastykę"</item>
+        <item>2</item>
+        <item>Ubierz się ciepło!</item>
+        <item>3</item>
+        <item>Ubierz się ciepło!</item>
+        <item>4</item>
+        <item>Lepiej ćwiczyć w domu!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>20</item>
+        <item>Stabilne temperatury</item>
+        <item>21</item>
+        <item>Chłodno ale komfortowo</item>
+        <item>22</item>
+        <item>Wahania temperatur</item>
+        <item>23</item>
+        <item>Bechmurne niebo i wysokie temperatury</item>
+        <item>24</item>
+        <item>Gorąco i wilgotno!</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>1</item>
+        <item>"To dobry dzień na umycie samochodu!"</item>
+        <item>2</item>
+        <item>"To dobry dzień na umycie samochodu!"</item>
+        <item>3</item>
+        <item>"Będzie padać! Lepiej wstrzymać się z myciem samochodu na dworze."</item>
+        <item>25</item>
+        <item>"Będzie padać! Lepiej wstrzymać się z myciem samochodu na dworze."</item>
+        <item>26</item>
+        <item>"Nadciąga burza piaskowa! Lepiej nie myć samochodu."</item>
+        <item>27</item>
+        <item>"Będzie padać śnieg! Wstrzymaj się z myciem samochodu."</item>
+        <item>4</item>
+        <item>Wstrzymaj się z myciem samochodu.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>28</item>
+        <item>Możesz suszyć ubrania po południu.</item>
+        <item>29</item>
+        <item>Możesz suszyć ubrania na dworze.</item>
+        <item>30</item>
+        <item>"Pochmurno ale ciepło. Możesz suszyć ubrania na dworze."</item>
+        <item>1</item>
+        <item>"Bardzo dobry dzień na suszenie ubrań na dworze."</item>
+        <item>3</item>
+        <item>Przelotne deszcze w czasie dnia.</item>
+        <item>5</item>
+        <item>Dobre warunki na suszenie ubrań.</item>
+        <item>4</item>
+        <item>Lepiej suszyć ubrania w domu.</item>
+        <item>31</item>
+        <item>Lepiej suszyć ubrania w domu.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>32</item>
+        <item>Bezchmurnie i słonecznie. Ciepło.</item>
+        <item>2</item>
+        <item>Komfortowo i stabilne temperatury.</item>
+        <item>1</item>
+        <item>Komfortowo i stabilne temperatury.</item>
+        <item>3</item>
+        <item>"Today's weather will be volatile."</item>
+        <item>33</item>
+        <item>"Today's weather will be volatile."</item>
+        <item>34</item>
+        <item>Bezchmurne niebo i lekki wiatr.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Ubierz się ciepło!</item>
+        <item>微风</item>
+        <item>Komfortowo</item>
+        <item>暂缺</item>
+        <item>Unavailable</item>
+    </string-array>
+</resources>

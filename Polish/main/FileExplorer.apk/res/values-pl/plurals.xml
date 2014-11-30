@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Usunąć %1$d plików</item>
+        <item quantity="zero">Usunąć %1$d plików</item>
+        <item quantity="one">Usunąć %1$d plik</item>
+        <item quantity="two">Usunąć %1$d plików</item>
+        <item quantity="few">Usunąć %1$d plików</item>
+        <item quantity="many">Usunąć %1$d plików</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" i %1$d katalogów?"</item>
+        <item quantity="zero">" i %1$d katalogów?"</item>
+        <item quantity="one">" i %1$d katalog?"</item>
+        <item quantity="two">" i %1$d katalogi?"</item>
+        <item quantity="few">" i %1$d katalogów?"</item>
+        <item quantity="many">" i %1$d katalogów?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elementów</item>
+        <item quantity="zero">%d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementy</item>
+        <item quantity="few">%d elementów</item>
+        <item quantity="many">%d elementów</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Pozostało %1$d plików do pobrania</item>
+        <item quantity="zero">Pozostało %1$d plików do pobrania</item>
+        <item quantity="one">Pozostał %1$d plik do pobrania</item>
+        <item quantity="two">Pozostały %1$d pliki do pobrania</item>
+        <item quantity="few">Pozostało %1$d plików do pobrania</item>
+        <item quantity="many">Pozostało %1$d plików do pobrania</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Pozostało %1$d plików do skopiowania</item>
+        <item quantity="zero">Pozostało %1$d plików do skopiowania</item>
+        <item quantity="one">Pozostał %1$d plik do skopiowania</item>
+        <item quantity="two">Pozostały %1$d pliki do skopiowania</item>
+        <item quantity="few">Pozostało %1$d plików do skopiowania</item>
+        <item quantity="many">Pozostało %1$d plików do skopiowania</item>
+    </plurals>
+</resources>

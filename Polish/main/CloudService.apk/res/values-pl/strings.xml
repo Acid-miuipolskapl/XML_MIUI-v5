@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Synchronizacja Xiaomi</string>
+    <string name="find_device_noise_title">Dźwięk zablokowanego telefonu</string>
+    <string name="find_device_stop_noise">Naciśnij \"OK\" aby wyciszyć</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">"Synchronizacja zdjęć kontaktów tylko z Wi-Fi"</string>
+    <string name="pref_title_sync_contacts_title">Synchronizuj kontakty</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Zdjęcia kontaktów tylko z Wi-Fi</string>
+    <string name="pref_title_sync_my_profile_title">Synchronizuj mój profil</string>
+    <string name="sub_sync_item_sms_summary">"Synchronizacja wiadomości zawierających zdjęcia lub dźwięki tylko z Wi-Fi."</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMS po Wi-Fi</string>
+    <string name="sync_item_calllog_summary">Synchronizacja rejestru połączeń na tym telefonie</string>
+    <string name="sync_item_calllog_title">Synchronizuj rejestr</string>
+    <string name="sync_item_sms_summary">Synchronizacja wiadomości tekstowych z tego telefonu</string>
+    <string name="sync_item_sms_title">Synchronizuj SMS</string>
+</resources>

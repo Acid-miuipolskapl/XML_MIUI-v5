@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Ustawienia ZTE</string>
+    <string name="select_memory">Domyślna lokalizacja zapisu</string>
+    <string name="dlg_default_write_disk_change_title">Default write disk settings</string>
+    <string name="dlg_default_write_disk_change_msg">Default write disk has changed, must reboot now!</string>
+    <string name="dlg_default_write_disk0_change_msg">"If you select the SD storage, the applications that installed in USB storage can't be used and the device will reboot, are you sure to change to SD storage?"</string>
+    <string name="dlg_default_write_disk1_change_msg">"If you select the USB storage, the applications that installed in SD storage can't be used and the device will reboot, are you sure to change to USB storage?"</string>
+    <string name="engineercode_settings">EngineerCode</string>
+    <string name="engineermode_settings">EngineerMode</string>
+    <string name="ygps_settings">GPSSettings</string>
+    <string name="schedulepoweronoff_settings">Schedule power on off</string>
+</resources>

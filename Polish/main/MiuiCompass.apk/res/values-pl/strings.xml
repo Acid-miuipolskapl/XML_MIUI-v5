@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="altitude">%.1f</string>
+    <string name="altitude_title">Wysokość</string>
+    <string name="altitude_unit">m</string>
+    <string name="app_label">Kompas</string>
+    <string name="calibrate_failed_no_location">Kalibracja nieudana: nie można uzyskać aktualnej pozycji geograficznej</string>
+    <string name="calibrate_failed_timeout">Kalibracja nieudana: przekroczono limit czasu serwera</string>
+    <string name="calibrate_success">Kalibracja zakończona</string>
+    <string name="cannot_get_location">Lokalizacja niedostępna</string>
+    <string name="dialog_calibrat_altitude">Kalibracja wysokości za pomocą połączenia internetowego.</string>
+    <string name="dialog_title_no_network">Nie wykryto sieci, połącz się z Wi-Fi lub siecią 3G</string>
+    <string name="direction_east">E</string>
+    <string name="direction_north">N</string>
+    <string name="direction_north_east">NE</string>
+    <string name="direction_north_west">NW</string>
+    <string name="direction_south">S</string>
+    <string name="direction_south_east">SE</string>
+    <string name="direction_south_west">SW</string>
+    <string name="direction_west">W</string>
+    <string name="getting_location">Określanie lokalizacji...</string>
+    <string name="guide_toast">"Aby skalibrować kompas poruszaj telefon wg schematu powyżej."</string>
+    <string name="latitude">Szer.</string>
+    <string name="location_east">Szerokość</string>
+    <string name="location_north">Długość</string>
+    <string name="location_south">S</string>
+    <string name="location_west">W</string>
+    <string name="longitude">Dług.</string>
+    <string name="menu_calibrate">Kalibracja kompasu</string>
+    <string name="menu_calibrate_altitude">Kalibracja pozycji geograficznej</string>
+    <string name="pressure">%.1f</string>
+    <string name="pressure_title">Ciśnienie</string>
+    <string name="pressure_unit">hPa</string>
+</resources>

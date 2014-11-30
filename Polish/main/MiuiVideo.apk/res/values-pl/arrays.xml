@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Popularne</item>
+        <item>Najciekawsze</item>
+        <item>Najnowsze</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Wybrane</item>
+        <item>Najciekawsze</item>
+        <item>Najnowsze</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Lokalnie</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Odcinek</item>
+        <item>Opis</item>
+    </string-array>
+</resources>

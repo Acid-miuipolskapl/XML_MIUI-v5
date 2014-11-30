@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="gemini_3g_disable_warning">Usługa 3G nie jest dostępna dla wybranej SIM. Dane mogą ładować się wolniej. &gt; Zmień konfigurację usługi mobilnej
+    3G.</string>
+  <string name="gemini_3g_disable_warning_case0">Najpierw należy włączyć dane w roamingu dla tej karty SIM. Może to powodować naliczenie opłat roamingowych!
+    Kontynuować?</string>
+  <string name="gemini_3g_disable_warning_case1">Usługa 3G nie jest dostępna dla wybranej SIM. Dane mogą ładować się wolniej. &gt; Możesz zmienić konfigurację usługi
+    telefonii komórkowej 3G w Ustawienia&gt; Sieci bezprzewodowe. Czy naprawdę wybrać tą kartę SIM?</string>
+  <string name="gemini_3g_disable_warning_case2">Usługa 3G nie jest dostępna dla wybranej SIM. Dane mogą ładować się wolniej. Możesz zmienić to ustawienie w ustawieniach
+    3G SERWIS&gt; Zarządzanie SIM. Czy naprawdę wybrać tą kartę SIM?</string>
+  <string name="gemini_3g_disable_warning_case3">Najpierw należy włączyć dane w roamingu dla tej SIM, które mogą powodować znaczne opłaty roamingowe! Ponadto, usługi 3G
+    są niedostępne. Dane mogą ładować się wolniej. Czy na pewno chcesz włączyć transmisję danych w roamingu i wybrać tą kartę SIM?</string>
+  <string name="gemini_3g_disable_warning_case4">Najpierw należy włączyć dane w roamingu dla tej SIM, które mogą powodować znaczne opłaty roamingowe! Ponadto, usługi 3G
+    są niedostępne. Dane mogą ładować się wolniej. Czy na pewno chcesz włączyć transmisję danych w roamingu i wybrać tą kartę SIM?</string>
+  <string name="gemini_3g_disable_warning_cu">Usługa 3G nie jest dostępna dla wybranej SIM. Dane mogą ładować się wolniej. &gt; Zmień konfigurację usługi mobilnej
+    3G.</string>
+  <string name="gemini_3g_modem_switch_confirm_message">Ta karta SIM zostanie połączona z usługami 3G. Kontynuować? Upewnij się, że karta SIM obsługuje 3G.</string>
+  <string name="gemini_3g_modem_switching_message">Przełączanie SIM zajmuje około 10 sekund. Proszę czekać...</string>
+  <string name="gemini_3g_service_settings">Obsługa 3G</string>
+  <string name="gemini_contacts_sim_summary">Przypisz kontakty do konkretnej karty SIM</string>
+  <string name="gemini_contacts_sim_title">Przypisanie kontaktów</string>
+  <string name="gemini_data_connection">Transmisja danych</string>
+  <string name="gemini_data_connection_progress_message">Proszę czekać...</string>
+  <string name="gemini_data_roaming_summary">Połącz z usługami przesyłu danych w roamingu</string>
+  <string name="gemini_data_roaming_title">Dane w roamingu</string>
+  <string name="gemini_default_sim_3g_off">Wył.</string>
+  <string name="gemini_default_sim_always_ask">Zawsze pytaj</string>
+  <string name="gemini_default_sim_never">Wył.</string>
+  <string name="gemini_default_sim_title">Ustawienia domyślne</string>
+  <string name="gemini_general_settings_title">Ustawienia ogólne</string>
+  <string name="gemini_gsm_umts_network_preferences_dialogtitle">Tryb sieci</string>
+  <string name="gemini_gsm_umts_network_preferences_title">Tryb sieci</string>
+  <string name="gemini_gsm_umts_network_preferneces_summary">Jeszcze nie zaimplementowane!</string>
+  <string name="gemini_intenet_call">Połączenie internetowe</string>
+  <string name="gemini_msg">SMS/MMS</string>
+  <string name="gemini_no_sim_indicator">Brak SIM</string>
+  <string name="gemini_roaming_reminder_summary">Propozycja SIM w oparciu o jej wykorzystanie</string>
+  <string name="gemini_roaming_reminder_title">Pokazuj ostrzeżenie o roamingu</string>
+  <string name="gemini_roaming_settings_title">Roaming</string>
+  <string name="gemini_sim_add_title">Kontakty</string>
+  <string name="gemini_sim_info_editor_color">Ustaw kolor tła</string>
+  <string name="gemini_sim_info_editor_name">Zmień nazwę SIM</string>
+  <string name="gemini_sim_info_editor_name_dup_msg">Nazwa karty SIM już istnieje</string>
+  <string name="gemini_sim_info_editor_name_dup_title">Nie udało się zapisać</string>
+  <string name="gemini_sim_info_editor_number">Wprowadź numer telefonu</string>
+  <string name="gemini_sim_info_editor_number_display_format">Pokaż numery</string>
+  <string name="gemini_sim_info_title">Karty SIM</string>
+  <string name="gemini_sim_list_default_title">Lista kart SIM</string>
+  <string name="gemini_sim_lock_no_insert_message_sim">Karta SIM nie jest włożona do urządzenia</string>
+  <string name="gemini_sim_lock_radio_off_message_sim1">Radio 1 wyłączone.</string>
+  <string name="gemini_sim_lock_radio_off_message_sim2">Radio 2 wyłączone.</string>
+  <string name="gemini_sim_lock_sim1_tab_label">SIM1</string>
+  <string name="gemini_sim_lock_sim1_tab_tag">SIM1</string>
+  <string name="gemini_sim_lock_sim2_tab_label">SIM2</string>
+  <string name="gemini_sim_lock_sim2_tab_tag">SIM2</string>
+  <string name="gemini_sim_lock_simid_error">Niepowodzenie, błędny ID karty SIM.</string>
+  <string name="gemini_sim_management_title">Zarządzanie SIM</string>
+  <string name="gemini_sim_mode_change_failed_message">Niepowodzenie, błąd sieci.</string>
+  <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Przejście na tryb samolotowy. Wszystkie połączenia bezprzewodowe zostaną wyłączone.
+    Kontynuować?</string>
+  <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Tryb samolotowy</string>
+  <string name="gemini_sim_mode_progress_activating_message">Włączanie...</string>
+  <string name="gemini_sim_mode_progress_deactivating_message">Wyłączanie...</string>
+  <string name="gemini_sim_tether_add_record">Dodaj do kontaktów</string>
+  <string name="gemini_sim_tether_disassociate">Odłączyć</string>
+  <string name="gemini_sim_tether_info_title">Kontakty &amp; SIM</string>
+  <string name="gemini_sim_tether_no_assc_contacts">Połączono wszystkie kontakty</string>
+  <string name="gemini_sim_tether_nocontact_confirm">OK</string>
+  <string name="gemini_sim_tether_nocontacts">Brak kontaktów zapisanych w telefonie. Proszę dodać lub zaimportować nowy kontakt.</string>
+  <string name="gemini_sim_tether_norecord">"Brak przypisanych kontaktów do aktualnej karty SIM Naciśnij przycisk Dodaj Kontakty, a następnie wybierz kontakty, które
+    chcesz skojarzyć z kartą SIM"</string>
+  <string name="gemini_sim_tether_revert_message">Konfiguracja zmieniła się i nie została zapisana. Wyjście bez zapisywania?</string>
+  <string name="gemini_sim_tether_revert_title">Uwaga</string>
+  <string name="gemini_sim_tether_select_all">Wybierz wszystko</string>
+  <string name="gemini_sim_tether_select_cancel">Anulować</string>
+  <string name="gemini_sim_tether_select_ok">Zapisać</string>
+  <string name="gemini_sim_tether_unselect_all">Anulować wybór</string>
+  <string name="gemini_tether_saving_progress_message">Zapisywanie...</string>
+  <string name="gemini_video_call">Połączenia wideo</string>
+  <string name="gemini_voice_call">Połączenia głosowe</string>
+  <string name="gemini_wap_push_permission">Auto-push service</string>
+  <string name="gemini_wap_push_permission_head">After enabling Auto-push service, you can receive pushed messages, incur local application running and produce data
+    traffic. The usual auto-push services include email notification, device management, service indication, service loading and provisioning push.</string>
+  <string name="gemini_wap_push_permission_tail">Accept this agreement?</string>
+  <string name="gemini_wap_push_permission_title">Auto-push service agreement</string>
+  <string name="breathing_light_color_title">" - Kolor LED "</string>
+  <string name="incoming_call_vibrate_abbreviation">"Połączenia "</string>
+  <string name="mms_vibrate_abbreviation">SMS/MMS</string>
+  <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
+  <string name="data_conn_category_title">Transmisja danych</string>
+  <string name="sd_card_settings_label">Karta SD</string>
+  <string name="sd_eject">Odłącz kartę SD</string>
+  <string name="sd_memory">Karta SD</string>
+  <string name="sd_mount">Podłącz kartę SD</string>
+  <string name="sd_mount_usbstorage">Podłącz nośnik USB</string>
+  <string name="sd_insert_usb_summary">Włóż USB do podłączenia</string>
+</resources>

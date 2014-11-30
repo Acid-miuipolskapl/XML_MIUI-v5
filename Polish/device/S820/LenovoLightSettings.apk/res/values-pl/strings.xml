@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="def_breath_cycle_delay">30</string>
+    <string name="def_comingcall_color">15</string>
+    <string name="def_misscall_color">1</string>
+    <string name="def_unreadmsg_color">2</string>
+    <string name="def_sinaweibo_color">4</string>
+    <string name="def_qqweibo_color">8</string>
+    <string name="def_music_color">112</string>
+    <string name="def_screenon_color">16</string>
+    <string name="def_screenoff_color">32</string>
+    <string name="light">Light</string>
+    <string name="breath_settings">Breath Settings</string>
+    <string name="breath_delay">Breath Cycle</string>
+    <string name="breath_delay_info">Less delay set, more power will be consumed</string>
+    <string name="light_switch_settings">Light Settings</string>
+    <string name="coming_call">Coming Call</string>
+    <string name="miss_call">Miss Call</string>
+    <string name="unread_msg">Unread Message</string>
+    <string name="battery_low_msg">Battery Low Message</string>
+    <string name="sina_weibo_notify">SinaWeibo Notify</string>
+    <string name="qq_weibo_notify">TencentWeibo Notify</string>
+    <string name="music_play">Music</string>
+    <string name="screen_on">Screen On</string>
+    <string name="screen_off">Screen Off</string>
+    <string name="power_on_off">PowerOnOff</string>
+    <string name="charging">Charging</string>
+    <string name="low_battery">Low Battery</string>
+    <string name="color_settings">Color Settings</string>
+    <string name="color_settings_info">Color settings of every light</string>
+    <string name="color_coming_call">Light Color of Coming Call</string>
+    <string name="color_miss_call">Light Color of Miss Call</string>
+    <string name="color_unread_msg">Light Color of Unread Message</string>
+    <string name="color_sina_weibo_notify">Light Color of SinaWeibo Notify</string>
+    <string name="color_qq_weibo_notify">Light Color of TencentWeibo Notify</string>
+    <string name="color_music">Light Color of Music</string>
+    <string name="color_screen_on">Light Color of Screen On</string>
+    <string name="color_screen_off">Light Color of Screen Off</string>
+    <string name="light_show">Light Show</string>
+    <string name="light_show_info">Light show is playing at bottom</string>
+    <string name="stop">Stop</string>
+    <string name="closed">closed</string>
+    <string name="open">open</string>
+    <string name="multiselect_alert_info">Need one color at least!</string>
+</resources>

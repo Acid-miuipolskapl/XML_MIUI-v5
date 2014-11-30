@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navibar">show</string>
+    <string name="app_name">Mi-POP</string>
+    <string name="full_screen">Navbar</string>
+    <string name="mipop_title">Mi-POP</string>
+    <string name="mipop_switch_title">Mi-POP</string>
+    <string name="mipop_switch_summary">Mi-POP enabled，the navigation bar could be replaced</string>
+    <string name="mipop_fullscreen_title">Hide the navigation bar</string>
+    <string name="mipop_fullscreen_summary">Larger screen area available</string>
+    <string name="widgetName">Mi-pop</string>
+    <string name="widgetText">Mi-pop</string>
+    <string name="fullscreenmode">Fullscreen mode</string>
+    <string name="fullscreenmodeon">Hide Mi-POP and navigation bar</string>
+    <string name="fullscreenmodeoff">Redisplay Mi-POP and navigation bar</string>
+    <string name="Save">Save</string>
+    <string name="Discard">Discard</string>
+    <string name="Share">Share</string>
+    <string name="SaveTO">Save to</string>
+    <string name="SaveFail">Save Fail!</string>
+    <string name="runningFaceDetection">Please wait…</string>
+    <string name="power_off">Power off</string>
+    <string name="reboot">Reboot</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="screenshots">Screenshots</string>
+    <string name="volume">Volume</string>
+    <string name="mute">Mute</string>
+    <string name="no_support">Land not support!</string>
+    <string name="fullScreem">Full Screen</string>
+    <string name="partScreem">Part</string>
+    <string name="mipop_first_key_title">Default Key</string>
+    <string name="mipop_help_title">Help</string>
+    <string name="help">HELP</string>
+    <string name="help1">1.Swipe on it to stretch Mi-POP,and it will retract after 2 minutes of inactivity</string>
+    <string name="help2">2.Move it on screen by sliding it vertically, or holding &amp; sliding it</string>
+    <string name="help3">3.Tap &amp; hold it to popup options, including screen lock, power off, adjust volume,etc</string>
+    <string name="help4">4.Tap &amp; hold Back to start or close Mi-Assist instantly</string>
+</resources>

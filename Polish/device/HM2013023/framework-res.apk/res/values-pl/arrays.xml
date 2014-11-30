@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Dom</item>
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Dom</item>
+        <item>Komórka</item>
+        <item>Praca</item>
+        <item>Faks w pracy</item>
+        <item>Faks domowy</item>
+        <item>Pager</item>
+        <item>Inny</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Dom</item>
+        <item>Praca</item>
+        <item>Inny</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Dom</item>
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Niestandardowy</item>
+    </string-array>
+        <integer-array name="config_autoBrightnessLevels">
+        <item>16</item>
+        <item>32</item>
+        <item>50</item>
+        <item>100</item>
+        <item>140</item>
+        <item>180</item>
+        <item>240</item>
+        <item>800</item>
+        <item>900</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>8000</item>
+        <item>10000</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>70</item>
+        <item>90</item>
+        <item>90</item>
+        <item>90</item>
+        <item>130</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+        <item>210</item>
+        <item>230</item>
+        <item>255</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="symbol_picker_A">ĄÀÁÂÄÆÃÅĀ</string>
+    <string name="symbol_picker_C">ĆÇČ</string>
+    <string name="symbol_picker_E">ĘÈÉÊËĘĚĒ</string>
+    <string name="symbol_picker_L">Ł</string>
+    <string name="symbol_picker_N">ŃÑŇ</string>
+    <string name="symbol_picker_O">ÓØŒÕÒÔÖŌ</string>
+    <string name="symbol_picker_S">ŚŠŞ</string>
+    <string name="symbol_picker_Z">ŻŹŽ</string>
+    <string name="symbol_picker_a">ąàáâäæãåā</string>
+    <string name="symbol_picker_c">ćçč</string>
+    <string name="symbol_picker_e">ęèéêëęěē</string>
+    <string name="symbol_picker_l">ł</string>
+    <string name="symbol_picker_n">ńñň</string>
+    <string name="symbol_picker_o">óøœõòôöō</string>
+    <string name="symbol_picker_s">ś§ßšş</string>
+    <string name="symbol_picker_z">żźž</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TruMedia</string>
+    <string name="preset_movie">Film</string>
+    <string name="preset_music">Muzyka</string>
+    <string name="preset_podcast">Podcasty</string>
+    <string name="preset_gaming">Gry</string>
+    <string name="vol_boost">Podbicie głośności</string>
+    <string name="slide_bass">Bas</string>
+    <string name="slide_treble">Sopran</string>
+    <string name="preset_header">Czego słuchasz?</string>
+    <string name="reset_defaults">Przywróć domyślne</string>
+</resources>

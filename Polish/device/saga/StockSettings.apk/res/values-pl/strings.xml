@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Ustawienia HTC</string>
+    <string name="stock_settings_entry_title">Internet z komputera</string>
+    <string name="stock_settings_entry_summary">"Połącz z Internetem wykorzystując PC.
+Podłącz kabel USB."</string>
+    <string name="PSFail">Nie można połączyć się z PC</string>
+    <string name="PSPass">Internet z komputera połączony</string>
+    <string name="PSMsg">Nie można połączyć się z PC. Upewnij się, że firewall komputera zezwala na tego typu połączenia. Internet z komputera wspiera połączenia TCP jeśli PC korzysta z połączeń przez PPP np. dial up, xDSL, lub VPN.</string>
+    <string name="PSTitle">Informacja</string>
+    <string name="PSButton">OK</string>
+    <string name="do_not_show_psmsg">"Nie pokazuj ponownie"</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d połączeń</item>
+        <item quantity="one">1 połączeń</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
+    <plurals name="AD_COUNT">
+        <item quantity="other">%d reklam</item>
+        <item quantity="one">1 reklama</item>
+    </plurals>
+    <plurals name="AD_TITLE_COUNT">
+        <item quantity="other">%d aplikacji z adware</item>
+        <item quantity="one">1 aplikacja z adware</item>
+    </plurals>
+</resources>

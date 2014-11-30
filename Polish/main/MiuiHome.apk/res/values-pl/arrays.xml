@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Poślizg</item>
+        <item>Klasyczny</item>
+        <item>Przenikanie</item>
+        <item>Karuzela</item>
+        <item>Strona</item>
+        <item>Stos</item>
+        <item>Obrót</item>
+        <item>Kostka</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Przewijana</item>
+        <item>Nieruchoma</item>
+        <item>Nieruchoma (lewa strona)</item>
+        <item>Nieruchoma (prawa strona)</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Domyślnie</item>
+        <item>Klasyczny</item>
+    </string-array>
+  <string-array name="gadget_weather_image">
+        <item>Przejrzyście</item>
+        <item>Pochmurnie</item>
+        <item>Zamglenia</item>
+        <item>Mglisto</item>
+        <item>Ulewny deszcz</item>
+        <item>Ulewa</item>
+        <item>Burza z ulewą</item>
+        <item>Burza</item>
+        <item>Deszcze</item>
+        <item>Ulewy</item>
+        <item>Przelotne deszcze</item>
+        <item>Mżawka</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Zamieć śnieżna</item>
+        <item>Zawieja śnieżna</item>
+        <item>Śnieg</item>
+        <item>Przelotny śnieg</item>
+        <item>Śnieżnie</item>
+        <item>Burza piaskowa</item>
+        <item>Zadyma</item>
+        <item>Pyliście</item>
+        <item>Burza piaskowa</item> 
+        <item>Grad</item>
+        <item>Burza z gradem</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Układ ikon</item>
+        <item>Widżety</item>
+        <item>Tapeta</item>
+        <item>Efekty</item>
+    </string-array>
+</resources>

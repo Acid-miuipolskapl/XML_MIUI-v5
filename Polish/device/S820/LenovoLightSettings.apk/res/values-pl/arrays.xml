@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="light_breath_cycle_entries">
+        <item>15 minute</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+        <item>90 minutes</item>
+    </string-array>
+    <string-array name="light_color_entries">
+        <item>color 1</item>
+        <item>color 2</item>
+        <item>color 3</item>
+        <item>color 4</item>
+        <item>color 5</item>
+        <item>color 6</item>
+        <item>color 7</item>
+    </string-array>
+</resources>

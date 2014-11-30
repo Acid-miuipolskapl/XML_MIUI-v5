@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mdnie_scenario_entries">
+        <item>Aparat (domyślnie)</item>
+        <item>Filmy</item>
+        <item>Filmy (ciepły)</item>
+        <item>Filmy (chłodny)</item>
+        <item>UI</item>
+        <item>Nawigacja</item>
+        <item>Galeria</item>
+        <item>VT</item>
+    </string-array>
+      <string-array name="mdnie_mode_entries">
+        <item>Normalny (domyślnie)</item>
+        <item>Dynamiczny</item>
+        <item>Naturalny</item>
+        <item>Filmowy</item>
+    </string-array>
+    <string-array name="mdnie_negative_entries">
+        <item>Normalny</item>
+        <item>Odwrócony</item>
+    </string-array>
+     <string-array name="mdnie_outdoor_entries">
+        <item>Wyłączone (domyślnie)</item>
+        <item>Włączone</item>
+    </string-array>
+    <string-array name="mdnie_outdoor_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="panel_gamma_entries">
+        <item>2.2 (domyślnie)</item>
+        <item>1.9</item>
+    </string-array>
+    <string-array name="touchscreen_sensitivity_entries">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50 (domyślnie)</item>
+        <item>70</item>
+        <item>100</item>
+    </string-array>
+      <string-array name="vibrator_intensity_entries">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50% (domyślnie)</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+      <string-array name="hspa_entries">
+        <item>Tylko UMTS</item>
+        <item>Tylko HSDPA</item>
+        <item>HSDPA + HSUPA</item>
+    </string-array>
+   <string-array name="touchkey_timeout_entries">
+        <item>Nigdy</item>
+        <item>1 sekund</item>
+        <item>2 sekund</item>
+        <item>3 sekund (domyślnie)</item>
+        <item>4 sekund</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+    </string-array>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="power_mode_entries">
+         <item>Wydajny</item>
+         <item>Normalny</item>
+         <item>Oszczędny</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+         <item>Wydajny</item>
+         <item>Normalny</item>
+         <item>Oszczędny</item>
+    </string-array>
+   <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Pierwsze 4 cyfry</item>
+        <item>Ostatnie 4 cyfry</item>
+        <item>Nie pokazuj</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Raz</item>
+        <item>Zawsze</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (automatycznie)</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+    </string-array>
+    <string-array name="wifi_ap_channel_width">
+        <item>20 MHz</item>
+        <item>Automatycznie 20/40 MHz</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Czas sieciowy</item>
+        <item>Czas GPS</item>
+        <item>Wył</item>
+    </string-array>
+    <string-array name="tvout_system_list">
+        <item>PAL</item>
+        <item>NTSC</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Pełny ekran</item>
+        <item>Dopasowanie</item>
+        <item>Oryginalny rozmiar</item>
+    </string-array>
+    <string-array name="hdmi_deep_color_entries">
+        <item>8bit</item>
+        <item>Auto</item>
+        <item>10 bit</item>
+        <item>12 bit</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(niewybrany)</item>
+        <item>Slot SIM nr 1</item>
+        <item>Slot SIM nr 2</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Always</item>
+        <item>Turn off when idle for 5 min</item>
+        <item>Turn off when idle for 10 min</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="usb_tether_type_entries">
+        <item>Windows(RNDIS)</item>
+        <item>Linux/Mac OS(EEM)</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push button</item>
+        <item>PIN from client</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 user</item>
+        <item>2 users</item>
+        <item>3 users</item>
+        <item>4 users</item>
+        <item>5 users</item>
+        <item>6 users</item>
+        <item>7 users</item>
+        <item>8 users</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Right-hand mouse</item>
+        <item>Left-hand mouse</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 FPS)</item>
+        <item>﻿720p (30 FPS)</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 FPS)</item>
+        <item>720p (60 FPS)</item>
+        <item>720p (30 FPS)</item>
+    </string-array>
+    <string-array name="wifi_hotspot_select_band_array">
+        <item>Tylko 2.4 GHz</item>
+        <item>Tylko 5 GHz</item>
+        <item>2.4 GHz lub 5 GHz</item>
+    </string-array>
+ </resources>

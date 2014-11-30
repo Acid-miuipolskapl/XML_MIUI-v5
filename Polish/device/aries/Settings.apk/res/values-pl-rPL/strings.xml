@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="breathing_light_color_title">" - Kolor LED "</string>
+  <string name="incoming_call_vibrate_abbreviation">"Połączenia "</string>
+  <string name="mms_vibrate_abbreviation">SMS/MMS</string>
+  <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Głos</item>
+        <item>Wideo</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Domyślna wartość dla sieci</item>
+        <item>Ukryj numer</item>
+        <item>Pokaż numer</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Automatyczny CDMA/EvDo</item>
+        <item>Automatyczny GSM/WCDMA</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+        <item>Preferowany GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE/CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY wyłączony</item>
+        <item>TTY pełny</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalne</item>
+        <item>Długie</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Zawsze</item>
+        <item>Tylko gdy cichy</item>
+        <item>Nigdy</item>
+    </string-array>
+</resources>

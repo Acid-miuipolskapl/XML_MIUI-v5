@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_app_name">Wideo</string>
+  <string name="about_developer_label">Developer</string>
+  <string name="about_developer_name">MIUI</string>
+  <string name="about_title">O aplikacji</string>
+  <string name="about_version_label">Wersja: </string>
+  <string name="adjust_position_next_media_notice">Następny</string>
+  <string name="adjust_position_prev_media_notice">Poprzedni</string>
+  <string name="airkan_control_device_des">您可以通过底部的按钮控制视频的播放</string>
+  <string name="airkan_device_xiaomi_phone">小米手机</string>
+  <string name="airkan_tips">"点这里，将正在播放的视频
+投影到盒子/电视上"</string>
+  <string name="airkan_video_playing">Odtwarzanie</string>
+  <string name="airkan_video_playing_in">Odtwarzanie…</string>
+  <string name="app_name">Odtwarzacz</string>
+  <string name="buffering">Buforowanie...</string>
+  <string name="buffering_video_netplay_label_v5">Buforowanie...</string>
+  <string name="loading_video_netplay_label">Ładowanie, proszę czekać...</string>
+  <string name="loading_video_netplay_label_v5">Ładowanie, proszę czekać...</string>
+  <string name="menu_item_about_label">O aplikacji</string>
+  <string name="menu_item_disable_3d_mode">Wyłącz 3D</string>
+  <string name="menu_item_disable_audio_enhance">Wyłącz ulepszenia dźwięków</string>
+  <string name="menu_item_enable_3d_mode">Włącz 3D</string>
+  <string name="menu_item_enable_audio_enhance">Włącz ulepszenia dźwięków</string>
+  <string name="menu_item_hide_media_info_label">Ukryj szczegóły filmu</string>
+  <string name="menu_item_media_info_label">Szczegóły filmu</string>
+  <string name="menu_item_orientation_auto_sensor_action">Włącz obracanie ekranu</string>
+  <string name="menu_item_orientation_fixed_by_videosize_action">Wyłącz obracanie ekranu</string>
+  <string name="menu_item_screen_shot">Zrzut ekranu</string>
+  <string name="menu_item_sub_title">Napisy</string>
+  <string name="menu_item_switch_width_height_label">Format obrazu</string>
+  <string name="menu_wh_item_adapt_height_label">Dopasuj wysokość</string>
+  <string name="menu_wh_item_adapt_width_label">Dopasuj szerokość</string>
+  <string name="menu_wh_item_auto_select_label">Automatycznie</string>
+  <string name="menu_wh_item_full_screen_label">Pełny ekran</string>
+  <string name="menu_wh_item_using_16_9_label">16:9</string>
+  <string name="menu_wh_item_using_4_3_label">4:3</string>
+  <string name="nowifi_alert_dialog_continue">Kontynuuj</string>
+  <string name="nowifi_alert_dialog_exit">Zakończ</string>
+  <string name="nowifi_alert_dialog_message">"Do przesyłania strumieniowego zostanie użyta sieć mobilna. 
+Kontynuować?"</string>
+  <string name="nowifi_alert_dialog_title">Ostrzeżenie o limitach danych</string>
+  <string name="temp_play_history_button_label">Show Play history</string>
+  <string name="to_be_play_label_v5">"Odtwarzanie "</string>
+  <string name="toast_back_key_pressed_notice">Naciśnij powrót ponownie by wyjść.</string>
+  <string name="toast_message_continue_play_from">"Wznawianie odtwarzania od "</string>
+  <string name="toast_message_continue_play_hour">" godz "</string>
+  <string name="toast_message_continue_play_minute">" min "</string>
+  <string name="toast_message_continue_play_second_and_play">" sek "</string>
+  <string name="toast_message_set_misound">Ustawienia dźwięku</string>
+  <string name="top_status_local_media">Media lokalne</string>
+  <string name="top_status_online_media">Media online</string>
+  <string name="video_info_audio_bitrate_label">Bitrate:</string>
+  <string name="video_info_audio_coding_label">Kodek dźwięku:</string>
+  <string name="video_info_audio_null">Brak</string>
+  <string name="video_info_frame_rate_label">FPS:</string>
+  <string name="video_info_length_label">Długość:</string>
+  <string name="video_info_resolution_label">Rozdzielczość:</string>
+  <string name="video_info_video_coding_label">Kodek wideo:</string>
+  <string name="vp_VideoView_error_button">OK</string>
+  <string name="vp_VideoView_error_network_not_available">Połączenie z siecią niedostępne</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Format strumieniowego wideo nie może zostać odtworzony</string>
+  <string name="vp_VideoView_error_text_unknown">Format pliku wideo nie może zostać odtworzony</string>
+  <string name="vp_VideoView_error_title">无法播放视频</string>
+</resources>

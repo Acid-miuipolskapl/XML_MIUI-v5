@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Biały</item>
+        <item>Żółty</item>
+        <item>Szary</item>
+        <item>Brązowy</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+        <item>Ciemny</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Zawsze</item>
+        <item>Na życzenie</item>
+        <item>Wyłączone</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Bardzo mały</item>
+        <item>Mały</item>
+        <item>Normalny</item>
+        <item>Duży</item>
+        <item>Bardzo duży</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Domyślna strona startowa</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Przełączenie stron</item>
+        <item>Przełączenie kart</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Strona do przodu/do tyłu</item>
+        <item>Przełączenie karty</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Małe</item>
+        <item>Średnie</item>
+        <item>Duże</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
+    </string-array>
+</resources>

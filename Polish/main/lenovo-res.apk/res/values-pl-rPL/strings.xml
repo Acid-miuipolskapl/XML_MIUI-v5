@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lsr_window_smart_rolled_toast">Window is smart rolled</string>
+    <string name="lsr_window_not_support_smart_rolled_toast">"Window doesn't support smart roll"</string>
+    <string name="lwt_description_target_back">back</string>
+    <string name="lwt_description_target_home">home</string>
+    <string name="lwt_description_target_menu">menu</string>
+    <string name="lwt_description_target_status_bar">status_bar</string>
+    <string name="dlg_use_ipo_confirm">Quick bootup at next booting</string>
+    <string name="storage_sd_card">Karta SD</string>
+    <string name="storage_usb">Nośnik USB</string>
+    <string name="storage_phone">Nośnik USB</string>
+    <string name="storage_external_usb">Zewnętrzny nośnik USB</string>
+    <string name="ext_storage_internal_notification_title">Przygotowanie nośnika USB</string>
+    <string name="ext_storage_external_notification_title">Przygotowanie zewnętrznego nośnika USB</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Otwórz tryb samolotowy.</string>
+    <string name="usb_notification_title">Ustawienia USB</string>
+    <string name="usb_notification_content">Wybierz sposób podłączania USB i Debugowania.</string>
+    <string name="default_string">Domyślnie</string>
+    <string name="capital_on">WŁ</string>
+    <string name="capital_off">WYŁ</string>
+    <string name="kg_forgot_password_button_text">Zapomniane hasło</string>
+    <string name="component">systemwidget</string>
+    <string name="author">Lenovo author</string>
+    <string name="description">Lenovo default theme</string>
+    <string name="app_name">Classical</string>
+</resources>

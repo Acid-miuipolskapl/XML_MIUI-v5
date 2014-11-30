@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="bluetooth_unlock_rssi_far_debug_msg">Urządzenie Bluetooth jest za daleko.</string>
+  <string name="contact_carrier_message">Contact your mobile carrier if you have any additional questions.</string>
+  <string name="emergency_call_string">Alarmowe</string>
+  <string name="empty_password_error_msg">Pole nie może być puste</string>
+  <string name="experimental_try_string">Try</string>
+  <string name="experimental_validate">Validate</string>
+  <string name="experimental_validate_fail">Sign-in failed</string>
+  <string name="experimental_validate_password">Hasło</string>
+  <string name="experimental_validate_progress">Signing in…</string>
+  <string name="experimental_validate_thanks">Thank you!</string>
+  <string name="experimental_validate_username">Username</string>
+  <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
+  <string name="find_device_check_sim">Sprawdzanie SIM…</string>
+  <string name="find_device_turn_off_flight_mode">Wyłącz Tryb Samolotowy</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Urządzenie zostało zablokowane.
+Wyłącz tryb samolotowy."</string>
+  <string name="forget_password_string">Nie pamiętam hasła</string>
+  <string name="incorrect_pincode">Nieprawidłowy PIN</string>
+  <string name="incorrect_pincode_remaining_attempts">Nieprawidłowy PIN. Pozostało prób: %d</string>
+  <string name="incorrect_pukcode">Nieprawidłowy kod PUK</string>
+  <string name="incorrect_pukcode_remaining_attempts">Nieprawidłowy PUK. Pozostało prób: %d</string>
+  <string name="input_password_hint_text">Wpisz hasło</string>
+  <string name="input_pin_code">Wpisz PIN</string>
+  <string name="input_pin_code_to_unlock">Wpisz PIN by odblokować</string>
+  <string name="input_puk_code">Wpisz PUK</string>
+  <string name="input_puk_code_to_unlock">Wpisz PUK by odblokować urządzenie</string>
+  <string name="lock_screen_date">dd MMMM, yyyy</string>
+  <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+  <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
+  <string name="lockscreen_access_pattern_detected">Wzór wykryty</string>
+  <string name="lockscreen_access_pattern_start">Pattern started</string>
+  <string name="lockscreen_emergency_call">Połączenia alarmowe</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the tablet will be reset to factory default and all user data will be lost.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly entered your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using your account signin.
+
+ Try again in %d seconds."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. The tablet will now be reset to factory default.</string>
+  <string name="lockscreen_forgot_pattern_button_text">Forgot</string>
+  <string name="lockscreen_glogin_checking_password">Sprawdzanie…</string>
+  <string name="lockscreen_glogin_forgot_pattern">Odblokowanie konta</string>
+  <string name="lockscreen_glogin_instructions">By odblokować wpisz się na konto Xiaomi</string>
+  <string name="lockscreen_glogin_invalid_input">Nieprawidłowa nazwa użytkownika lub hasło.</string>
+  <string name="lockscreen_glogin_password_hint">Hasło</string>
+  <string name="lockscreen_glogin_submit_button">Wpisz się</string>
+  <string name="lockscreen_glogin_too_many_attempts">Zbyt wiele prób odblokowania</string>
+  <string name="lockscreen_pattern_instructions">Narysuj wzór by odblokować</string>
+  <string name="lockscreen_pattern_wrong">Spróbuj ponownie:</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Spróbuj ponownie za %d sekund.</string>
+  <string name="lockscreen_transport_next_description">Dalej</string>
+  <string name="lockscreen_transport_play_description">Odtwórz</string>
+  <string name="lockscreen_transport_prev_description">Poprzedni</string>
+  <string name="login_website_in_case_forget_password">Aby zresetować hasło przejdź do i.mi.com.</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Odblokowany przez Bluetooth</string>
+  <string name="miui_unlockscreen_password_wrong">Spróbuj ponownie:</string>
+  <string name="open_wifi_settings">Open network connection</string>
+  <string name="phone_locked_string">Urządzenie zablokowane</string>
+  <string name="phone_locked_timeout_minutes_string">Spróbuj ponownie za %s minut</string>
+  <string name="phone_locked_timeout_seconds_string">Spróbuj ponownie za %s sekund</string>
+  <string name="pin_operation_failed">Operacja PIN nieudana.</string>
+  <string name="pincode_set_to_default_msg">Kod PIN jest ustawiony na 1234, możesz to zmienić tutaj:</string>
+  <string name="puk_operation_failed">Operacja PUK nieprawidłowa.</string>
+  <string name="return_to_me_message">Jeśli zgubiłem telefon zwróć go do</string>
+  <string name="screen_on_proximity_sensor_hint">Aby odblokować naciśnij jednocześnie przyciski Powrót i Głośność dół.</string>
+  <string name="screen_on_proximity_sensor_summary">"Nawigacja po ekranie zablokowana jeśli czujnik zbliżeniowy jest zasłonęty"</string>
+  <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
+  <string name="short_pincode_error_msg">Wpisz 4-8 cyfr</string>
+  <string name="short_pukcode_error_msg">Musisz wpisać co najmniej 8 cyfr.</string>
+  <string name="starting_camera_string">Uruchamianie kamery</string>
+  <string name="unlock_sim_string">Odblokuj SIM</string>
+  <string name="unlock_string">OK</string>
+  <string name="unlocking_sim_card">Odblokowywanie SIM</string>
+  <string name="unlockscreen_low_battery">Podłącz ładowarkę</string>
+  <string name="unlockscreen_recharge_completed">Naładowany</string>
+  <string name="unlockscreen_recharging_message">Ładowanie %d%%</string>
+</resources>

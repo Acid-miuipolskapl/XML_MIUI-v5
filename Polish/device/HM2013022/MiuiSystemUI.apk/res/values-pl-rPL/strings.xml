@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="screenshot_failed_title">"Wykonanie zrzutu nie było możliwe"</string>
+  <string name="settings_custom_notification">Powiadomienia</string>
+  <string name="settings_expandable_under_fullscreen">Rozwiń przy pełnym ekranie</string>
+  <string name="settings_expandable_under_fullscreen_summary">Pozwala na wysunięcie paska powiadomień przy pełnym ekranie aplikacji</string>
+  <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
+  <string name="settings_expandable_under_keyguard_summary">Pozwala na wysunięcie paska powiadomień na ekranie blokady</string>
+  <string name="settings_expanded_view">Rozwijany pasek powiadomień</string>
+  <string name="settings_notification_bar">Pasek powiadomień</string>
+  <string name="settings_screenshot_notification_disabled">Bez inf. o zrzucie</string>
+ </resources>

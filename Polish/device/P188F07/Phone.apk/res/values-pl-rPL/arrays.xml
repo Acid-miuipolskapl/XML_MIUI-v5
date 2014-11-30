@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Tryb podwójny</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Tryb podwójny</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (automatycznie)</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (automatycznie)</item>
+        <item>Tylko TD-SCDMA</item>
+        <item>Tylko GSM</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (automatycznie)</item>
+        <item>Tylko WCDMA</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (automatycznie)</item>
+        <item>Tylko TD-SCDMA</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Wył</item>
+        <item>Wszystkie numery</item>
+        <item>Z listy</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Kontakty</item>
+        <item>Rejestr połączeń</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Tylko EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>Automatyczny CDMA / EvDo</item>
+        <item>Automatyczny GSM / WCDMA</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+        <item>Preferowane GSM / WCDMA</item>
+     </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Home only</item>
+        <item>Automatic</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_service_stopped">Zdalna usługa zatrzymana</string>
+    <string name="app_name">DS</string>
+    <string name="name_widget_extra_large">Widżet DS x6</string>
+    <string name="name_widget_large">Widżet DS x3</string>
+    <string name="name_widget_small">DS Wył/Wł</string>
+    <string name="movie">Filmy</string>
+    <string name="music">Muzyka</string>
+    <string name="game">Gry</string>
+    <string name="voice">Głos</string>
+    <string name="preset_1">Własne 1</string>
+    <string name="preset_2">Własne 2</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_future">
+        <item>Alarm za mniej niż minutę</item>
+        <item>Alarm za %1$s</item>
+        <item>Alarm za %2$s</item>
+        <item>Alarm za %1$s %2$s</item>
+        <item>Alarm za %3$s</item>
+        <item>Alarm za %1$s %3$s</item>
+        <item>Alarm za %2$s %3$s</item>
+        <item>Alarm za %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="contact_entries"> 
+        <item>Imię</item> 
+        <item>Pseudonim</item> 
+        <item>Telefon</item> 
+        <item>E-mail</item> 
+        <item>Firma</item> 
+        <item>IM</item> 
+        <item>Telefon SIP</item> 
+        <item>Urodziny</item> 
+        <item>Strona WWW</item> 
+        <item>Adres</item> 
+        <item>Notatka</item> 
+    </string-array>
+    <string-array name="mobile_operator_display_names">
+        <item>Aero2</item>
+        <item>Plus</item>
+        <item>PLAY</item>
+        <item>T-Mobile</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>26017</item>
+        <item>26001</item>
+        <item>26006</item>
+        <item>26002</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<strings>
+    <string name="sliding_down_hint_miui" value="V Odbierz V"/> 
+	<string name="sliding_target_hint_miui" value="Przesuń na cel"/> 
+	<string name="sliding_up_hint_miui" value="Do góry by odrzucić"/> 
+	<string name="hangup_sms_miui" value="Odrzuć z SMS"/> 
+	<string name="answer_and_hangup_miui" value="Odbierz"/> 
+	<string name="ignore_miui" value="Ignoruj"/> 
+</strings>

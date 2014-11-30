@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Jedna na stronę</item>
+        <item>Dwie kartki na stronę</item>
+        <item>Cztery kartki na stronę</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Pionowa</item>
+        <item>Pozioma</item>
+        <item>Odwrócona pozioma</item>
+        <item>Odwrócona pionowa</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Jednostronnie</item>
+        <item>Dwustronnie (dłuższa krawędź)</item>
+        <item>Dwustronnie (krótsza krawędź)</item>
+    </string-array>
+</resources>
